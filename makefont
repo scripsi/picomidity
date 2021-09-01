@@ -1,0 +1,3 @@
+#!/bin/bash
+
+otf2bdf -p 72 -o "firacode72.bdf" -l '32 37 46 48_57 77' "/usr/share/fonts/opentype/firacode/FiraCode-Bold.otf"
